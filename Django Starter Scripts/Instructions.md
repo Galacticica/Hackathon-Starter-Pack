@@ -6,3 +6,4 @@ For either file, before running you must give it execution permissions by runnin
 To install Django without Tailwind or daisyUI, run ```./django.sh <directory>```  
 To install with Tailwind and daisyUI, run ```./tailwind.sh <directory>```
 
+https://www.youtube.com/watch?v=_LwPCDQ-gX8
